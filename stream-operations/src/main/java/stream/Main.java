@@ -1,4 +1,4 @@
-package telran.stream;
+package stream;
 
 import java.util.Random;
 
